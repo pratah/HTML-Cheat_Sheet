@@ -166,7 +166,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-		<!-- Unordered Lists-->
+		<!-- Ordered Lists-->
 		<ol>
 			<li>Item 1</li>
 			<li>Item 2</li>
