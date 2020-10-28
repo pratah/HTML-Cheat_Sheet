@@ -137,7 +137,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Lists (Unordered list)
+## Lists (Unordered list) :atom:
 ```html
 <!DOCTYPE html>
 <html>
