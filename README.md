@@ -82,7 +82,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-		<!--Bold text-->
+		<!--Emphasize text-->
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -103,7 +103,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-		<!--Bold text-->
+		<!--Links-->
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -124,7 +124,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-		<!--Bold text-->
+		<!--Links on new tab-->
 		<p>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
