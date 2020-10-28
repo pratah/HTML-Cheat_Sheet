@@ -158,6 +158,27 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Lists (Ordered list) :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!-- Unordered Lists-->
+		<ol>
+			<li>Item 1</li>
+			<li>Item 2</li>
+			<li>Item 3</li>
+			<li>Item 4</li>
+			<li>Item 5</li>
+			<li>Item 6</li>
+		</ol>
+	</body>
+</html>
+```
+
 ## Tags :white_check_mark:
 | 	Tag 	    | 	Syntax                      | Description 	                                                     |
 | 	:---:       |     :---:                     |	:---:                                                            |
@@ -172,7 +193,8 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Strong        | `<strong></strong>`           | It bolds the text                                                  |
 | Emphasize     | `<em></em>`                   | Emphasizes the text                                                |
 | Links         | `<a href=""></a>`             | It creates a relationship between a document and an external source|
-| Unordered list| `<ul></ul>`                   |Defines an unordered llist 										 |
+| Unordered list| `<ul></ul>`                   |Defines an unordered list 										     |
+| Ordered list  | `<ol></ol>`                   |Defines an ordered list 										     |
 
 
 
