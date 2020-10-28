@@ -137,20 +137,42 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Lists (Unordered list)
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!-- Unordered Lists-->
+		<ul>
+			<li>Item 1</li>
+			<li>Item 2</li>
+			<li>Item 3</li>
+			<li>Item 4</li>
+			<li>Item 5</li>
+			<li>Item 6</li>
+		</ul>
+	</body>
+</html>
+```
+
 ## Tags :white_check_mark:
-| 	Tag 	   | 	Syntax                     | Description 	                                                    |
-| 	:---:      |     :---:                     |	:---:                                                           |
-| DOCTYPE  	   | `<!DOCTYPE>`                  | Defines the document type                                          |
-| Html         | `<html></html>`               | The container for all other HTML elements                          |
-| Head         | `<head></head>`               | Document info                                                      |
-| Body         | `<body></body>`     		   | Where the magic happens                                            |
-| Title        | `<title></title>`    		   | Gives your document a title                                        |
-| Comments     | `<!--Something in here-->`    | Won't be parsed by the browser                                     |
-| Headings     | `<h1></h1>through<h6></h6>`   | HTML Headings                                                      |
-| Paragraph    | `<p></p>`                     | Defines a paragraph                                                |
-| Strong       | `<strong></strong>`           | It bolds the text                                                  |
-| Emphasize    | `<em></em>`                   | Emphasizes the text                                                |
-| Links        | `<a href=""></a>`             | It creates a relationship between a document and an external source|
+| 	Tag 	    | 	Syntax                      | Description 	                                                     |
+| 	:---:       |     :---:                     |	:---:                                                            |
+| DOCTYPE  	    | `<!DOCTYPE>`                  | Defines the document type                                          |
+| Html          | `<html></html>`               | The container for all other HTML elements                          |
+| Head          | `<head></head>`               | Document info                                                      |
+| Body          | `<body></body>`     		    | Where the magic happens                                            |
+| Title         | `<title></title>`    		    | Gives your document a title                                        |
+| Comments      | `<!--Something in here-->`    | Won't be parsed by the browser                                     |
+| Headings      | `<h1></h1>through<h6></h6>`   | HTML Headings                                                      |
+| Paragraph     | `<p></p>`                     | Defines a paragraph                                                |
+| Strong        | `<strong></strong>`           | It bolds the text                                                  |
+| Emphasize     | `<em></em>`                   | Emphasizes the text                                                |
+| Links         | `<a href=""></a>`             | It creates a relationship between a document and an external source|
+| Unordered list| `<ul></ul>`                   |Defines an unordered llist 										 |
 
 
 
