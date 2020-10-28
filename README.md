@@ -2,7 +2,7 @@
 Listed below are some of the most used HTML tags, their syntax and some examples.
 
 ## A very basic HTML Structure
-```HTML
+```html
 <!DOCTYPE html>
 <html>
  	<head>
@@ -10,6 +10,25 @@ Listed below are some of the most used HTML tags, their syntax and some examples
    	</head>
    	<body
    	</body>
+</html>
+```
+
+## HTML with headings
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!--Headings-->
+		<h1>Heading one</h1>
+		<h2>Heading two</h2>
+		<h3>Heading three</h3>
+		<h4>Heading four</h4>
+		<h5>Heading five</h5>
+		<h6>Heading six</h6>
+	</body>
 </html>
 ```
 
