@@ -1,8 +1,7 @@
 # HTML Cheat Sheet :nerd_face:
 Listed below are some of the most used HTML tags, their syntax and some examples.
 
-:arrow_lower_right:
-## A very basic HTML Structure
+## A very basic HTML Structure :yellow_circle:
 ```html
 <!DOCTYPE html>
 <html>
@@ -14,8 +13,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-:arrow_lower_right:
-## HTML with headings
+## HTML with headings :yellow_circle:
 ```html
 <!DOCTYPE html>
 <html>
@@ -34,8 +32,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-:arrow_lower_right:
-## Tags
+## Tags :yellow_circle:
 | 	Tag 	   | 	Syntax                     | Description 	                             |
 | 	:---:      |     :---:                     |	:---:                                    |
 | DOCTYPE  	   | `<!DOCTYPE>`                  | Defines the document type                   |
