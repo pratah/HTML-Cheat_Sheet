@@ -74,7 +74,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Emphasize text :atom:
+## Emphasize text (_Text displayed in italic_) :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -372,7 +372,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Headings       | `<h1></h1>...<h6></h6>`      | HTML Headings                                                      |
 | Paragraph      | `<p></p>`                    | Defines a paragraph                                                |
 | Strong         | `<strong></strong>`          | It bolds the text                                                  |
-| Emphasize      | `<em></em>`                  | Emphasizes the text                                                |
+| Emphasize      | `<em></em>`                  | Displays text in italic                                            |
 | Links          | `<a href=""></a>`            | It creates a relationship between a document and an external source|
 | Unordered list | `<ul></ul>`                  |Defines an unordered list 										     |
 | Ordered list   | `<ol></ol>`                  |Defines an ordered list 										     |
