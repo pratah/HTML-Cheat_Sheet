@@ -116,7 +116,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-##  Opening links on a new tab with target attribute `target="_blank"`:atom:
+##  Opening links on a new tab with target attribute `target="_blank`:atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -349,7 +349,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-  		<!-- Wrapping an image in a link tag-->
+  		<!-- Wrapping an image with a link tag-->
 			<a href="img/ghost.svg" target="_blank">
 				<img src="img/ghost.svg" alt="Just a ghost image">
 	   		</a>
