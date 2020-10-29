@@ -341,7 +341,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Wrapping an image in a link tag :atom:
+## Wrapping an image with a link tag :atom:
 ```html
 <!DOCTYPE html>
 <html>
