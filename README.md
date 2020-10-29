@@ -1,7 +1,7 @@
 # HTML Cheat Sheet :nerd_face:
 Listed below are some of the most used HTML tags, their syntax and some examples.
 
-## A very basic HTML Structure :atom:
+### A very basic HTML Structure :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -13,7 +13,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Headings :atom:
+### Headings :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -32,7 +32,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Paragraph :atom:
+### Paragraph :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -53,7 +53,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Bold text :atom:
+### Bold text :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -74,7 +74,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Emphasize text (_Text displayed in italic_) :atom:
+### Emphasize text (_Text displayed in italic_) :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -95,7 +95,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Links :atom:
+### Links :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -116,7 +116,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-##  Opening links on a new tab with target attribute `target="_blank`:atom:
+###  Opening links on a new tab with target attribute `target="_blank`:atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -137,7 +137,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Lists (Unordered list) :atom:
+### Lists (Unordered list) :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -158,7 +158,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Lists (Ordered list) :atom:
+### Lists (Ordered list) :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -179,7 +179,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Table :atom:
+### Table :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -218,7 +218,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Form :atom:
+### Form :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -241,7 +241,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Form with `div` :atom:
+### Form with `div` :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -271,7 +271,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 :warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag
 
-## Form with `<textarea>` :atom:
+### Form with `<textarea>` :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -290,7 +290,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Drop-down list :atom:
+### Drop-down list :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -313,7 +313,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Button :atom:
+### Button :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -327,7 +327,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Image :atom:
+### Image :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -341,7 +341,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Wrapping an image with a link tag :atom:
+### Wrapping an image with a link tag :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -357,7 +357,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Quotations :atom:
+### Quotations :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -378,7 +378,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Abbreviation :atom:
+### Abbreviation :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -392,7 +392,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-## Cite :atom:
+### Cite :atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -409,7 +409,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 
 
-## Tags :white_check_mark:
+### Tags :white_check_mark:
 | 	Tag 	     | 	Syntax                      | Description 	                                                     |
 | 	:---:        |     :---:                    |	:---:                                                            |
 | DOCTYPE  	     | `<!DOCTYPE>`                 | Defines the document type                                          |
