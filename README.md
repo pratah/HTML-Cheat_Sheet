@@ -228,7 +228,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Body          | `<body></body>`     		    | Where the magic happens                                            |
 | Title         | `<title></title>`    		    | Gives your document a title                                        |
 | Comments      | `<!--Something in here-->`    | Won't be parsed by the browser                                     |
-| Headings      | `<h1></h1><h></h2><h3></h3><h4></h4><h5></h5><h6></h6>`                   | HTML Headings                                                      |
+| Headings      | `<h1></h1>...<h6></h6>`       | HTML Headings                                                      |
 | Paragraph     | `<p></p>`                     | Defines a paragraph                                                |
 | Strong        | `<strong></strong>`           | It bolds the text                                                  |
 | Emphasize     | `<em></em>`                   | Emphasizes the text                                                |
