@@ -271,6 +271,25 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 :warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag
 
+## Form with `<textarea>` :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!--Forms with <textarea> -->
+		<form>
+			<div>
+				<label>Please leave us a message:</label><br>
+  				<textarea name="message"></textarea>
+  			</div>
+  		</form>
+	</body>
+</html>
+```
+
 
 
 
@@ -302,6 +321,8 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Line break     | `<br>`                       |Single line break 										     		 |
 | Horizontal rule| `<hr>`                       |Displays a horizontal line 										 |
 | Div            | `<div></div>`                |It defines a section withing the document 							 |
+| Text are       | `<textarea></textarea>`      |Defines a box for multiline input							         |
+
 
 
 
