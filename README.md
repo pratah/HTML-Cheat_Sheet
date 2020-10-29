@@ -116,7 +116,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-##  Opening links on a new tab with target attribute `target="_blank"`:atom:
+##  Opening links on a new tab with target attribute `target="_blank`:atom:
 ```html
 <!DOCTYPE html>
 <html>
@@ -290,6 +290,27 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Drop-down list :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!--Drop-down list-->
+  		<label for="colors">Choose a color:</label>
+
+		<select name="colors" id="colors">
+  			<option value="blue">Blue</option>
+  			<option value="green">Green</option>
+  			<option value="red">Red</option>
+  			<option value="purple">Purple</option>
+		</select>
+	</body>
+</html>
+```
+
 
 
 
@@ -322,6 +343,10 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Horizontal rule| `<hr>`                       |Displays a horizontal line 										 |
 | Div            | `<div></div>`                |It defines a section withing the document 							 |
 | Text are       | `<textarea></textarea>`      |Defines a box for multiline input							         |
+| Select list    | `<select></select>`          |Drop-down list							                             |
+| Option         | `<option></option>`          |Defines possible options in a drop-down list	                     |
+
+
 
 
 
