@@ -279,7 +279,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-		<!--Forms with <textarea> -->
+		<!--Form with <textarea> -->
 		<form>
 			<div>
 				<label>Please leave us a message:</label><br>
