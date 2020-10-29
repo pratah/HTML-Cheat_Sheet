@@ -116,7 +116,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
-##  Opening links on a new tab with target attribute `target="_blank`:atom:
+##  Opening links on a new tab with target attribute `target="_blank"`:atom:
 ```html
 <!DOCTYPE html>
 <html>
