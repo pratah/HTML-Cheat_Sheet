@@ -299,14 +299,16 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</head>
 	<body>
 		<!--Drop-down list-->
-  		<label for="colors">Choose a color:</label>
+  		<div>
+  			<label for="colors">Choose a color:</label>
 
-		<select name="colors" id="colors">
-  			<option value="blue">Blue</option>
-  			<option value="green">Green</option>
-  			<option value="red">Red</option>
-  			<option value="purple">Purple</option>
-		</select>
+			<select name="colors" id="colors">
+  				<option value="blue">Blue</option>
+  				<option value="green">Green</option>
+  				<option value="red">Red</option>
+  				<option value="purple">Purple</option>
+			</select>
+		</div>
 	</body>
 </html>
 ```
