@@ -349,13 +349,11 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
-  		<div>
-			<!-- Wrapping an image in a link tag-->
+  		<!-- Wrapping an image in a link tag-->
 			<a href="img/ghost.svg" target="_blank">
 				<img src="img/ghost.svg" alt="Just a ghost image">
-	   		</a> 
-	    </div>
-	</body>
+	   		</a>
+	 </body>
 </html>
 ```
 
