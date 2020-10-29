@@ -179,6 +179,46 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Table :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!--Table-->
+		<table>
+			<thead>
+				<tr>
+					<th>First Name</th>
+					<th>Last Name</th>
+					<th>Email</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Henrique</td>
+					<td>Prata</td>
+					<td>henrique@email.com</td>
+				</tr>
+				<tr>
+					<td>Flora</td>
+					<td>Morgan</td>
+					<td>flora@email.com</td>
+				</tr>
+				<tr>
+					<td>Star</td>
+					<td>Wars</td>
+					<td>star@email.com</td>
+				</tr>
+			</tbody>
+		</table>	
+	</body>
+</html>
+```
+
+
 ## Tags :white_check_mark:
 | 	Tag 	    | 	Syntax                      | Description 	                                                     |
 | 	:---:       |     :---:                     |	:---:                                                            |
@@ -195,6 +235,18 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Links         | `<a href=""></a>`             | It creates a relationship between a document and an external source|
 | Unordered list| `<ul></ul>`                   |Defines an unordered list 										     |
 | Ordered list  | `<ol></ol>`                   |Defines an ordered list 										     |
+| Table         | `<table></table>`             |Defines a table 										             |
+| thead         | `<thead></thead>`             |Table heading										                 |
+| tbody         | `<tbody></tbody>`             |The body content in a table 										 |
+| tr            | `<tr></tr>`                   |Table row 										                     |
+| th            | `<th></th>`                   |Header cell in a table 										     |
+| td            | `<td></td>`                   |Table data 										     |
+
+
+
+
+
+
 
 
 
