@@ -365,17 +365,15 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<title>HTML Cheat Sheet</title>
 	</head>
 	<body>
- 		<div>
-			<!--Quotations-->
-	    	<blockquote cite="https://www.google.co.uk/">
-	    		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-	    		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-	    		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-	    		consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-	    		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-	    		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	    	</blockquote>
-	  	</div>
+		<!--Quotations-->
+	    <blockquote cite="https://www.google.co.uk/">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	    	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	    	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+	    	consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+	    	cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+	    	proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	    </blockquote>
 	 </body>
 </html>
 ```
