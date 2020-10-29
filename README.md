@@ -378,6 +378,21 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Abbreviation :atom:
+```
+<!DOCTYPE>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<p>The <abbr title="National Aeronautics and Space Administration">NASA</abbr>is the agency in charge of the civilian space program</p>
+
+	</body>
+</html>
+```
+
+
 
 
 
@@ -415,6 +430,8 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Button         | `<button></button>`          |A clickable button	                                                 |
 | Image          | `<img>`          			|Used to insert images                                               |
 | Quotations     | `<blockquote></blockquote>`  |A section quoting an external source                                |
+| Abbreviation   | `<abbr></abbr>`              |An abbreviation or an acronym                                       |
+
 
 
 
