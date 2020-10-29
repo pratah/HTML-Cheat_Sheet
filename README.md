@@ -393,6 +393,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 
 ### Cite :atom:
+```html
 <!DOCTYPE html>
 <html>
 	<head>
@@ -402,7 +403,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		<p> <cite>On Writing</cite> by Stephen King</p>
 	</body>
 </html>
-
+```
 
 
 
