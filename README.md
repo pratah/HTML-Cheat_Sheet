@@ -237,8 +237,8 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 		</form>
 	</body>
 </html>
-The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag
 ```
+:warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag
 
 
 ## Tags :white_check_mark:
