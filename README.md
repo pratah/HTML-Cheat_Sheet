@@ -392,6 +392,19 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Cite :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<p> <cite>On Writing</cite> by Stephen King</p>
+	</body>
+</html>
+```
+
 
 
 
@@ -431,6 +444,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Image          | `<img>`          			|Used to insert images                                               |
 | Quotations     | `<blockquote></blockquote>`  |A section quoting an external source                                |
 | Abbreviation   | `<abbr></abbr>`              |An abbreviation or an acronym                                       |
+| Cite           | `<cite></cite>`              |The title of a work in italic                                       |
 
 
 
