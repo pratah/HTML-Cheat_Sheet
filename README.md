@@ -379,8 +379,8 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 
 ## Abbreviation :atom:
-```
-<!DOCTYPE>
+```html
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>HTML Cheat Sheet</title>
