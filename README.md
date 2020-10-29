@@ -313,6 +313,52 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Button :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+  		<!--Button-->
+		<button>Click Me</button>
+	</body>
+</html>
+```
+
+## Image :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+  		<!--Image-->
+		<button>Click Me</button>
+	</body>
+</html>
+```
+
+## Wrapping an image in a link tag :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+  		<div>
+			<!-- Wrapping an image in a link tag-->
+			<a href="img/ghost.svg" target="_blank">
+				<img src="img/ghost.svg" alt="Just a ghost image">
+	   		</a> 
+	    </div>
+	</body>
+</html>
+```
+
 
 
 
@@ -347,6 +393,9 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Text are       | `<textarea></textarea>`      |Defines a box for multiline input							         |
 | Select list    | `<select></select>`          |Drop-down list							                             |
 | Option         | `<option></option>`          |Defines possible options in a drop-down list	                     |
+| Button         | `<button></button>`          |A clickable button	                                                 |
+| Image          | `<img>`          			|Used to insert images                                               |
+
 
 
 
