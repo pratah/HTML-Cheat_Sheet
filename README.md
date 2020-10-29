@@ -436,7 +436,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Input          | `<input></input>`            |Input control 										     			 |
 | Line break     | `<br>`                       |Single line break 										     		 |
 | Horizontal rule| `<hr>`                       |Displays a horizontal line 										 |
-| Div            | `<div></div>`                |It defines a section withing the document 							 |
+| Div            | `<div></div>`                |It defines a section in the document 							     |
 | Text are       | `<textarea></textarea>`      |Defines a box for multiline input							         |
 | Select list    | `<select></select>`          |Drop-down list							                             |
 | Option         | `<option></option>`          |Defines possible options in a drop-down list	                     |
