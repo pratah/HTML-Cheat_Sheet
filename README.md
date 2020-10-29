@@ -218,6 +218,20 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 
+## Form :atom:
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML Cheat Sheet</title>
+	</head>
+	<body>
+		<!-- Form-->
+		
+	</body>
+</html>
+```
+
 
 ## Tags :white_check_mark:
 | 	Tag 	    | 	Syntax                      | Description 	                                                     |
@@ -227,7 +241,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Head          | `<head></head>`               | Document info                                                      |
 | Body          | `<body></body>`     		    | Where the magic happens                                            |
 | Title         | `<title></title>`    		    | Gives your document a title                                        |
-| Comments      | `<!--Something in here-->`     | Won't be parsed by the browser                                     |
+| Comments      | `<!--Something in here-->`    | Won't be parsed by the browser                                     |
 | Headings      | `<h1></h1>...<h6></h6>`       | HTML Headings                                                      |
 | Paragraph     | `<p></p>`                     | Defines a paragraph                                                |
 | Strong        | `<strong></strong>`           | It bolds the text                                                  |
@@ -240,7 +254,14 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | tbody         | `<tbody></tbody>`             |The body content in a table 										 |
 | tr            | `<tr></tr>`                   |Table row 										                     |
 | th            | `<th></th>`                   |Header cell in a table 										     |
-| td            | `<td></td>`                   |Table data 										     |
+| td            | `<td></td>`                   |Table data 										                 |
+| Form          | `<form></form>`               |Defines a form for user input										 |
+| Label         | `<label></label>`             |Label for an input element 										 |
+| Input         | `<input></input>`             |Input control 										     			 |
+| Line break    | `<br>`                        |Single line break 										     		 |
+
+
+
 
 
 
