@@ -1,4 +1,4 @@
-# HTML Cheat Sheet :nerd_face:
+# :arrow_right: HTML Cheat Sheet :arrow_left:
 Listed below are some of the most used HTML tags, their syntax and some examples.
 
 ### A very basic HTML Structure :atom:
