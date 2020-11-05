@@ -3,6 +3,12 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 ---
 
+## Table of contents
+1. [Basic HTML structure](#A very basic HTML Structure)
+2. [Tags](#Tags)
+
+---
+
 ### A very basic HTML Structure :atom:
 ```html
 <!DOCTYPE html>
