@@ -4,9 +4,18 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ---
 
 ## Table of contents
-1. [Basic HTML Structure](#a-very-basic-html-structure):writing_hand:
-2. [Headings](#headings)
-3. [Paragraph](#paragraph):writing_hand:
+1. [Basic HTML Structure](#a-very-basic-html-structure) :writing_hand:
+2. [Headings](#headings) :writing_hand:
+3. [Paragraph](#paragraph) :writing_hand:
+4. [Rendering text in Bold](#rendering-text-in-bold) :writing_hand:
+5. [Rendering text in italic](#rendering-text-in-italic) :writing_hand:
+6. [Links](#links) :writing_hand:
+7. [Opening links in a new tab](#opening-links-in-a-new-tab) :writing_hand:
+8. [Paragraph](#paragraph) :writing_hand:
+9. [Unordered list](#unordered-list)
+10. [Ordered-list](#ordered-list)
+11. [Table](#table)
+12. 
 
 ---
 
@@ -41,6 +50,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
+[Back to top](#table-of-contents) :top:
 ---
 
 ### Paragraph
@@ -65,7 +75,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 ---
 
-### Bold text :atom:
+### Rendering text in bold 
 ```html
 <!DOCTYPE html>
 <html>
@@ -87,7 +97,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 ---
 
-### Emphasize text (_Text displayed in italic_) :atom:
+### Rendering text in italic 
 ```html
 <!DOCTYPE html>
 <html>
@@ -110,7 +120,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 ---
 
-### Links :atom:
+### Links
 ```html
 <!DOCTYPE html>
 <html>
@@ -133,7 +143,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 ---
 
-###  Opening links on a new tab with target attribute `target="_blank"`:atom:
+###  Opening links in a new tab
 ```html
 <!DOCTYPE html>
 <html>
@@ -153,10 +163,11 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
+:warning: Be sure to use target attribute `target="_blank"`
 
 ---
 
-### Lists (Unordered list) :atom:
+### Unordered list
 ```html
 <!DOCTYPE html>
 <html>
@@ -179,7 +190,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 ---
 
-### Lists (Ordered list) :atom:
+### Ordered list
 ```html
 <!DOCTYPE html>
 <html>
@@ -202,7 +213,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 ---
 
-### Table :atom:
+### Table
 ```html
 <!DOCTYPE html>
 <html>
