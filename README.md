@@ -314,6 +314,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 </html>
 ```
 :warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag
+:warning: To define a sections use the `<div>` tags
 
 ###### [Back to ](#table-of-contents) :top:
 ---
