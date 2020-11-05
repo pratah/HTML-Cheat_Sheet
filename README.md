@@ -19,7 +19,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 13. [Text area in a form](#text-area-in-a-form) 
 14. [Drop-down list](#drop-down-list) 
 15. [Inserting a button](#inserting-a-button) 
-16. [Inserting an image](#inserting-animage) 
+16. [Inserting an image](#inserting-an-image) 
 17. [Wrapping an image with a link tag](#wrapping-an-image-with-a-link-tag) 
 18. [Quoting](#quoting) 
 19. [Abbreviation](#abbreviation) 
