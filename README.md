@@ -449,7 +449,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 
 ---
 
-### Tags :white_check_mark:
+### :white_check_mark: Tags 
 | 	Tag 	     | 	Syntax                      | Description 	                                                     |
 | 	:---:        |     :---:                    |	:---:                                                            |
 | DOCTYPE  	     | `<!DOCTYPE>`                 | Defines the document type                                          |
