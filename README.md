@@ -4,9 +4,9 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ---
 
 ## Table of contents
-1. [Basic HTML Structure](#a-very-basic-html-structure) :atom:
+1. [Basic HTML Structure](#a-very-basic-html-structure):writing_hand:
 2. [Headings](#headings)
-3. [Paragraph](#paragraph) :atom:
+3. [Paragraph](#paragraph):writing_hand:
 
 ---
 
