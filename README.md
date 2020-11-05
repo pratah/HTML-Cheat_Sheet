@@ -4,7 +4,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ---
 
 ## Table of contents
-1. [Basic HTML structure](#A very basic HTML Structure)
+1. [Basic HTML structure](#a-very-basic-html-structure)
 2. [Tags](#tags)
 
 ---
