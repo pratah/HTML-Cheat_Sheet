@@ -7,25 +7,24 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 1. [Basic HTML Structure](#a-very-basic-html-structure) :writing_hand:
 2. [Headings](#headings) :writing_hand:
 3. [Paragraph](#paragraph) :writing_hand:
-4. [Rendering text in Bold](#rendering-text-in-bold) :writing_hand:
+4. [Rendering text in bold](#rendering-text-in-bold) :writing_hand:
 5. [Rendering text in italic](#rendering-text-in-italic) :writing_hand:
 6. [Links](#links) :writing_hand:
 7. [Opening links in a new tab](#opening-links-in-a-new-tab) :writing_hand:
-8. [Paragraph](#paragraph) :writing_hand:
-9. [Unordered list](#unordered-list) :writing_hand:
-10. [Ordered-list](#ordered-list) :writing_hand:
-11. [Table](#table) :writing_hand:
-12. [Form](#form) :writing_hand:
-13. [Defining sections in a form](#defining-sections-in-a-form) :writing_hand:
-14. [Text area in a form](#text-area-in-a-form) :writing_hand:
-15. [Drop-down list](#drop-down-list) :writing_hand:
-16. [Inserting a button](#inserting-a-button) :writing_hand:
-17. [Inserting an image](#inserting-animage) :writing_hand:
-18. [Wrapping an image with a link tag](#wrapping-an-image-with-a-link-tag) :writing_hand:
-19. [Quoting](#quoting) :writing_hand:
-20. [Abbreviation](#abbreviation) :writing_hand:
-21. [Cite](#cite) :writing_hand:
-22. [Tags](#tags) :scroll:
+8. [Unordered list](#unordered-list) :writing_hand:
+9. [Ordered-list](#ordered-list) :writing_hand:
+10. [Table](#table) :writing_hand:
+11. [Form](#form) :writing_hand:
+12. [Defining sections in a form](#defining-sections-in-a-form) :writing_hand:
+13. [Text area in a form](#text-area-in-a-form) :writing_hand:
+14. [Drop-down list](#drop-down-list) :writing_hand:
+15. [Inserting a button](#inserting-a-button) :writing_hand:
+16. [Inserting an image](#inserting-animage) :writing_hand:
+17. [Wrapping an image with a link tag](#wrapping-an-image-with-a-link-tag) :writing_hand:
+18. [Quoting](#quoting) :writing_hand:
+19. [Abbreviation](#abbreviation) :writing_hand:
+20. [Cite](#cite) :writing_hand:
+21. [Tags](#tags) :scroll:
 
 ---
 
