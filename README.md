@@ -513,10 +513,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 | Abbreviation   | `<abbr></abbr>`              |An abbreviation or an acronym                                       |
 | Cite           | `<cite></cite>`              |The title of a work in italic                                       |
 
----
 
-### Attribution
-Made possible by the teachings of @bradtraversy
 
 
 
