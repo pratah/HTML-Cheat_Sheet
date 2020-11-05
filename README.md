@@ -320,8 +320,8 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-:warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag <br>
-:warning: To define a sections use the `<div>` tags
+:warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag <br><br>
+:warning: To define sections use the `<div>` tags
 
 ###### [Back to ](#table-of-contents) :top:
 ---
