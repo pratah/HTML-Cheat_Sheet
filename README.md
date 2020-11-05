@@ -16,7 +16,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 10. [Ordered-list](#ordered-list) :writing_hand:
 11. [Table](#table) :writing_hand:
 12. [Form](#form) :writing_hand:
-13. [Form](#form)
+13. [Using divs in a form](#using-divs-in-a-form)
 14. [Form with `div` ](#form-with-`div` )
 
 ---
@@ -285,7 +285,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Form with `div` 
+### Using divs in a form
 ```html
 <!DOCTYPE html>
 <html>
