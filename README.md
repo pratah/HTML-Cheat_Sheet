@@ -4,27 +4,27 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ---
 
 ## Table of contents
-1. [Basic HTML Structure](#a-very-basic-html-structure) :writing_hand:
-2. [Headings](#headings) :writing_hand:
-3. [Paragraph](#paragraph) :writing_hand:
-4. [Rendering text in bold](#rendering-text-in-bold) :writing_hand:
-5. [Rendering text in italic](#rendering-text-in-italic) :writing_hand:
-6. [Links](#links) :writing_hand:
-7. [Opening links in a new tab](#opening-links-in-a-new-tab) :writing_hand:
-8. [Unordered list](#unordered-list) :writing_hand:
-9. [Ordered-list](#ordered-list) :writing_hand:
-10. [Table](#table) :writing_hand:
-11. [Form](#form) :writing_hand:
-12. [Defining sections in a form](#defining-sections-in-a-form) :writing_hand:
-13. [Text area in a form](#text-area-in-a-form) :writing_hand:
-14. [Drop-down list](#drop-down-list) :writing_hand:
-15. [Inserting a button](#inserting-a-button) :writing_hand:
-16. [Inserting an image](#inserting-animage) :writing_hand:
-17. [Wrapping an image with a link tag](#wrapping-an-image-with-a-link-tag) :writing_hand:
-18. [Quoting](#quoting) :writing_hand:
-19. [Abbreviation](#abbreviation) :writing_hand:
-20. [Cite](#cite) :writing_hand:
-21. [Tags](#tags) :scroll:
+1. [Basic HTML Structure](#a-very-basic-html-structure)
+2. [Headings](#headings) 
+3. [Paragraph](#paragraph) 
+4. [Rendering text in bold](#rendering-text-in-bold) 
+5. [Rendering text in italic](#rendering-text-in-italic) 
+6. [Links](#links) 
+7. [Opening links in a new tab](#opening-links-in-a-new-tab) 
+8. [Unordered list](#unordered-list) 
+9. [Ordered-list](#ordered-list) 
+10. [Table](#table) 
+11. [Form](#form) 
+12. [Defining sections in a form](#defining-sections-in-a-form) 
+13. [Text area in a form](#text-area-in-a-form) 
+14. [Drop-down list](#drop-down-list) 
+15. [Inserting a button](#inserting-a-button) 
+16. [Inserting an image](#inserting-animage) 
+17. [Wrapping an image with a link tag](#wrapping-an-image-with-a-link-tag) 
+18. [Quoting](#quoting) 
+19. [Abbreviation](#abbreviation) 
+20. [Cite](#cite) 
+21. [Tags](#tags) 
 
 ---
 
@@ -388,7 +388,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Image
+### Inserting an image
 ```html
 <!DOCTYPE html>
 <html>
