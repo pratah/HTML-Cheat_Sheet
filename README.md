@@ -12,10 +12,12 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 6. [Links](#links) :writing_hand:
 7. [Opening links in a new tab](#opening-links-in-a-new-tab) :writing_hand:
 8. [Paragraph](#paragraph) :writing_hand:
-9. [Unordered list](#unordered-list)
-10. [Ordered-list](#ordered-list)
-11. [Table](#table)
-12. 
+9. [Unordered list](#unordered-list) :writing_hand:
+10. [Ordered-list](#ordered-list) :writing_hand:
+11. [Table](#table) :writing_hand:
+12. [Form](#form) :writing_hand:
+13. [Form](#form)
+14. [Form with `div` ](#form-with-`div` )
 
 ---
 
@@ -30,6 +32,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
    	</body>
 </html>
 ```
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Headings
@@ -73,6 +76,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Rendering text in bold 
@@ -95,6 +99,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Rendering text in italic 
@@ -117,7 +122,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Links
@@ -140,7 +145,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ###  Opening links in a new tab
@@ -165,6 +170,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 :warning: Be sure to use target attribute `target="_blank"`
 
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Unordered list
@@ -187,7 +193,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Ordered list
@@ -210,7 +216,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Table
@@ -251,10 +257,10 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
-### Form :atom:
+### Form
 ```html
 <!DOCTYPE html>
 <html>
@@ -276,10 +282,10 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
-### Form with `div` :atom:
+### Form with `div` 
 ```html
 <!DOCTYPE html>
 <html>
@@ -309,6 +315,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ```
 :warning: The _for_ attribute of the `<label>` tag should be equal to the _id_ attribute of the `<input>` tag
 
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Form with `<textarea>` :atom:
@@ -329,7 +336,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Drop-down list :atom:
@@ -354,7 +361,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Button :atom:
@@ -370,7 +377,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Image :atom:
@@ -386,7 +393,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Wrapping an image with a link tag :atom:
@@ -404,7 +411,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	 </body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Quotations :atom:
@@ -427,7 +434,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	 </body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Abbreviation :atom:
@@ -443,7 +450,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Cite :atom:
@@ -458,7 +465,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Tags 
