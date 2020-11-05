@@ -17,7 +17,15 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 11. [Table](#table) :writing_hand:
 12. [Form](#form) :writing_hand:
 13. [Defining sections in a form](#defining-sections-in-a-form) :writing_hand:
-14. [Form with `div` ](#form-with-`div` ) :writing_hand:
+14. [Text area in a form](#text-area-in-a-form) :writing_hand:
+15. [Drop-down list](#drop-down-list) :writing_hand:
+16. [Inserting a button](#inserting-a-button) :writing_hand:
+17. [Inserting an image](#inserting-animage) :writing_hand:
+18. [Wrapping an image with a link tag](#wrapping-an-image-with-a-link-tag) :writing_hand:
+19. [Quoting](#quoting) :writing_hand:
+20. [Abbreviation](#abbreviation) :writing_hand:
+21. [Cite](#cite) :writing_hand:
+22. [Tags](#tags) :scroll:
 
 ---
 
@@ -319,7 +327,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Form with `<textarea>` :atom:
+### Text area in a form
 ```html
 <!DOCTYPE html>
 <html>
@@ -340,7 +348,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Drop-down list :atom:
+### Drop-down list
 ```html
 <!DOCTYPE html>
 <html>
@@ -365,7 +373,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Button :atom:
+### Inserting a button
 ```html
 <!DOCTYPE html>
 <html>
@@ -381,7 +389,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Image :atom:
+### Image
 ```html
 <!DOCTYPE html>
 <html>
@@ -397,7 +405,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Wrapping an image with a link tag :atom:
+### Wrapping an image with a link tag
 ```html
 <!DOCTYPE html>
 <html>
@@ -415,7 +423,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Quotations :atom:
+### Quoting
 ```html
 <!DOCTYPE html>
 <html>
@@ -438,7 +446,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Abbreviation :atom:
+### Abbreviation
 ```html
 <!DOCTYPE html>
 <html>
@@ -454,7 +462,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 ###### [Back to ](#table-of-contents) :top:
 ---
 
-### Cite :atom:
+### Cite
 ```html
 <!DOCTYPE html>
 <html>
