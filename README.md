@@ -50,7 +50,7 @@ Listed below are some of the most used HTML tags, their syntax and some examples
 	</body>
 </html>
 ```
-###### [Back to top](#table-of-contents) :top:
+###### [Back to ](#table-of-contents) :top:
 ---
 
 ### Paragraph
